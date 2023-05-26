@@ -1,16 +1,16 @@
-h2 {
+h1 {
   font-family: "Times New Roman", Times, serif;
-  color: white;
+  color: #c6c5b9;
   text-align: center;
 }
 #sobre {
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    padding-left: 615px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 615px;
 }
 body {
   background-color: rgb(00, 00, 17);
   font-family: Arial, Helvetica, sans-serif;
-  color: whitesmoke;
+  color: #c6c5b9;
 }
 .image-luke {
   width: 580px;
@@ -23,14 +23,14 @@ body {
 .texto-sobre {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-    padding-left:630px;
+  padding-left: 630px;
 }
 .habilidades {
-    padding-left: 615px;
+  padding-left: 615px;
 }
 
 .lista-habil {
-    padding-left: 600px ;
+  padding-left: 600px;
 }
 
 strong {
@@ -40,15 +40,16 @@ em {
   color: rgb(104, 73, 117);
 }
 a {
-  color: blue;
+  color: #386fa4;
+  text-decoration: none;
 }
 .lista {
   font-size: 18px;
 }
 
 .usq {
-    padding: 8px 12px;
-    background-color: #E76D23;
-    color: white;
-    text-decoration: none;
+  padding: 8px 12px;
+  background-color: #e76d23;
+  color: white;
+  text-decoration: none;
 }
